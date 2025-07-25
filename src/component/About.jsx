@@ -27,7 +27,7 @@ const About = () => {
 
   return (
     <div id="about">
-        <div className="mb-16 md:px-0 px-5">
+        <div className="mb-16 md:px-8 px-5">
             <div className="content">
                 <div className="md:col-span-8">
                     <p className="badge"> Best Cocktails </p>
@@ -52,7 +52,7 @@ const About = () => {
             </div>
         </div>
 
-        <div className="top-grid">
+        <div className="top-grid md:px-8">
             <div className="md:col-span-3">
                 <div className="noisy"/>
                 <img src="/images/abt1.png" alt="grid-img-1" />
@@ -69,7 +69,7 @@ const About = () => {
             </div>
         </div>
 
-        <div className="bottom-grid">
+        <div className="bottom-grid md:px-8">
             <div className="md:col-span-8">
                 <div className="noisy"/>
                 <img src="/images/abt3.png" alt="grid-img-3" />
