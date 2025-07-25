@@ -1,12 +1,25 @@
-# React + Vite
+# Tipsy Journey – Animated Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and responsive landing page built with **React.js** and **GSAP**, designed to showcase smooth scroll-based animations and a clean, modern UI. This project focuses on front-end animation, layout responsiveness, and clean code architecture.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+👉 [View the Live Site](https://tipsy-journey-x1vg.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
+- Smooth entrance and scroll animations with **GSAP**
+- Fully responsive layout for desktop and mobile
+- Clean and modular React components
+- Animated sections with modern UI/UX touches
+- Deployed with **Vercel** for fast global delivery
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+- **React.js** – Frontend UI framework
+- **GSAP** – Animation library
+- **Vite** – Lightning-fast development and bundling
+- **CSS / Tailwind CSS** (if used)
+- **Vercel** – Hosting and deployment
+
